@@ -15,6 +15,8 @@ Our main objective is to simplify the synthesis of the recording of a meeting.
 
 To develop a new strategy to summarize a video, you should first open a new issue describing how it works. It must have a list of requirements and optionally a list of references to provide technical content about how it will be implemented.
 
+The input and output must be a WebVTT file.
+
 ## Useful resources
 - [Video Summarizer made easy using NLP](https://medium.com/@aswanthkanil/video-summarizer-made-easy-using-nlp-af0afdea49b5)
 - [sumy - Automatic text summarizer](https://github.com/miso-belica/sumy)
