@@ -11,6 +11,12 @@ Our main objective is to simplify the synthesis of the recording of a meeting.
 - [ ] Convert the audio to text
 - [ ] Summarize the text into topics
 
+## Developing new summarizers
+
+To develop a new strategy to summarize a video, you should first open a new issue describing how it works. It must have a list of requirements and optionally a list of references to provide technical content about how it will be implemented.
+
+A new issue should use a prefix `[Video Summarizer]` in its title.
+
 ## Useful resources
 - [Video Summarizer made easy using NLP](https://medium.com/@aswanthkanil/video-summarizer-made-easy-using-nlp-af0afdea49b5)
 - [sumy - Automatic text summarizer](https://github.com/miso-belica/sumy)
